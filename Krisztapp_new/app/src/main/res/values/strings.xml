@@ -1,8 +1,0 @@
-<resources>
-    <string name="main_menu_credit_hu">Névjegy</string>
-    <string name="main_menu_search_hu">Keresés</string>
-    <string name="main_menu_delete_hu">Törlés</string>
-    <string name="main_menu_delete_all_hu">Minden recept törlése</string>
-    <string name="app_name">Krisztapp</string>
-    <string name="cardimage">CardImage</string>
-</resources>
